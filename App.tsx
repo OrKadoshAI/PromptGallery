@@ -168,7 +168,7 @@ const App: React.FC = () => {
 
       <footer className="relative z-10 bg-white border-t border-slate-100 py-8 mt-auto">
         <div className="max-w-7xl mx-auto px-6 text-center space-y-2">
-            <p className="text-[#2e1065] font-bold text-sm">© 2024 CREATIVE AI</p>
+            <p className="text-[#2e1065] font-bold text-sm">© 2025 CREATIVE AI</p>
         </div>
       </footer>
     </div>
