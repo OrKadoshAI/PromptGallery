@@ -56,7 +56,7 @@ export const PROMPTS_DATA: PromptItem[] = [
     title: "תדמית לאישה בסטודיו",
     category: "תדמית נשים",
     promptText: "Professional studio portrait of a woman standing against a warm terracotta/rust colored backdrop. She's wearing an emerald green blazer over a white button-down shirt, paired with cream high-waisted trousers. Hands in pockets, relaxed pose facing camera with slight angle. Studio lighting with soft shadows and depth, modern editorial style. Rich, saturated colors with good contrast. Contemporary fashion photography aesthetic, clean and polished, vibrant yet professional.CRITICAL- The generated image must be 100% identical to the reference image provided - exact same facial features, original hair color and style from reference image, expression, and overall appearance.",
-    imageUrl: "/women_studio1.png",
+    imageUrl: "/public/women_studio1.png",
   },
   {
     id: 6,
