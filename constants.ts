@@ -53,10 +53,10 @@ export const PROMPTS_DATA: PromptItem[] = [
   },
   {
     id: 5,
-    title: "אישה בשקיעה",
+    title: "#1 תדמית לאישה בסטודיו",
     category: "תדמית נשים",
     promptText: "A beautiful woman standing on the beach during golden hour, wind blowing through hair, warm tones, realistic photography, emotional atmosphere.",
-    imageUrl: "https://picsum.photos/id/500/600/400",
+    imageUrl: 'public/women_studio1,
   },
   {
     id: 6,
